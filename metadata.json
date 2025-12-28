@@ -1,0 +1,7 @@
+{
+  "name": "ReelGen AI - AI Video Content Creator",
+  "description": "Transform your scripts into fully-fledged short-form videos with AI-generated visuals and voiceovers using Gemini and Veo models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
